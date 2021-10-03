@@ -6,6 +6,12 @@ sites:
     url: http://brianalabs.com
   - name: api.brianalabs.com
     url: https://api.brianalabs.com/v1/auth/me
+  - name: Upbit API
+    url: https://api.upbit.com/v1/market/all
+  - name: Bithumb API
+    url: https://api.bithumb.com/public/ticker/all_krw
+  - name: Coinone API
+    url: https://api.coinone.co.kr/ticker?currency=all
 
 status-website:
   cname: upptime.brianalabs.com
