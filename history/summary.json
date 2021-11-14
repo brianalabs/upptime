@@ -40,7 +40,7 @@
     "url": "https://api.upbit.com/v1/market/all",
     "icon": "https://favicons.githubusercontent.com/api.upbit.com",
     "slug": "upbit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 1071,
     "timeYear": 1053,
     "dailyMinutesDown": {
+      "2021-11-14": 0,
       "2021-10-19": 17,
       "2021-10-12": 154
     }
