@@ -4,19 +4,19 @@
     "url": "http://brianalabs.com",
     "icon": "https://favicons.githubusercontent.com/brianalabs.com",
     "slug": "brianalabs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 145,
-    "timeWeek": 288,
-    "timeMonth": 240,
-    "timeYear": 453,
+    "time": 450,
+    "timeDay": 157,
+    "timeWeek": 273,
+    "timeMonth": 237,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-01-08": 0
+      "2022-01-08": 6
     }
   },
   {
