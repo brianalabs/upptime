@@ -4,9 +4,9 @@
     "url": "http://brianalabs.com",
     "icon": "https://favicons.githubusercontent.com/brianalabs.com",
     "slug": "brianalabs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 288,
     "timeMonth": 240,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-08": 0
+    }
   },
   {
     "name": "api.brianalabs.com",
