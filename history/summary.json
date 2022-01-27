@@ -22,9 +22,9 @@
     "url": "https://api.brianalabs.com/v1/auth/me",
     "icon": "https://favicons.githubusercontent.com/api.brianalabs.com",
     "slug": "api-brianalabs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 815,
     "timeMonth": 796,
     "timeYear": 1084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Upbit API",
