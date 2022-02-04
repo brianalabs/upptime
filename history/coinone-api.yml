@@ -1,7 +1,7 @@
 url: https://api.coinone.co.kr/ticker?currency=all
 status: up
 code: 200
-responseTime: 593
-lastUpdated: 2022-02-03T23:07:26.261Z
+responseTime: 604
+lastUpdated: 2022-02-04T23:08:13.674Z
 startTime: Sun Oct 03 2021 03:48:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
