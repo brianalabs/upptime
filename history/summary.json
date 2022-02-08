@@ -13,7 +13,7 @@
     "time": 392,
     "timeDay": 211,
     "timeWeek": 215,
-    "timeMonth": 216,
+    "timeMonth": 218,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -22,9 +22,9 @@
     "url": "https://api.brianalabs.com/v1/auth/me",
     "icon": "https://favicons.githubusercontent.com/api.brianalabs.com",
     "slug": "api-brianalabs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 966,
     "timeMonth": 914,
     "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Upbit API",
