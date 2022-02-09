@@ -22,19 +22,19 @@
     "url": "https://api.brianalabs.com/v1/auth/me",
     "icon": "https://favicons.githubusercontent.com/api.brianalabs.com",
     "slug": "api-brianalabs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1131,
-    "timeDay": 1748,
-    "timeWeek": 1424,
-    "timeMonth": 1100,
-    "timeYear": 1131,
+    "time": 1129,
+    "timeDay": 1657,
+    "timeWeek": 1384,
+    "timeMonth": 1092,
+    "timeYear": 1129,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 5
     }
   },
   {
