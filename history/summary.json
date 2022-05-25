@@ -67,35 +67,39 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://favicons.githubusercontent.com/api.bithumb.com",
     "slug": "bithumb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 317,
-    "timeWeek": 324,
-    "timeMonth": 393,
-    "timeYear": 509,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 208,
+    "timeWeek": 296,
+    "timeMonth": 383,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   },
   {
     "name": "Coinone API",
     "url": "https://api.coinone.co.kr/ticker?currency=all",
     "icon": "https://favicons.githubusercontent.com/api.coinone.co.kr",
     "slug": "coinone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 598,
-    "timeWeek": 672,
-    "timeMonth": 624,
-    "timeYear": 674,
-    "dailyMinutesDown": {}
+    "time": 672,
+    "timeDay": 394,
+    "timeWeek": 611,
+    "timeMonth": 610,
+    "timeYear": 672,
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   }
 ]
