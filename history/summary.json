@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 893,
-    "timeWeek": 391,
-    "timeMonth": 276,
-    "timeYear": 350,
+    "time": 351,
+    "timeDay": 498,
+    "timeWeek": 406,
+    "timeMonth": 286,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1059,
-    "timeDay": 875,
-    "timeWeek": 1101,
-    "timeMonth": 1025,
-    "timeYear": 1059,
+    "time": 1061,
+    "timeDay": 1544,
+    "timeWeek": 1107,
+    "timeMonth": 1046,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2022-02-09": 20
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.79%",
     "time": 1149,
-    "timeDay": 1069,
-    "timeWeek": 1243,
-    "timeMonth": 1168,
+    "timeDay": 1278,
+    "timeWeek": 1250,
+    "timeMonth": 1177,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2022-05-23": 107,
@@ -69,18 +69,16 @@
     "slug": "bithumb-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 422,
-    "timeWeek": 357,
-    "timeMonth": 398,
+    "timeDay": 528,
+    "timeWeek": 396,
+    "timeMonth": 405,
     "timeYear": 509,
-    "dailyMinutesDown": {
-      "2022-05-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Coinone API",
@@ -89,17 +87,15 @@
     "slug": "coinone-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 459,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 672,
-    "dailyMinutesDown": {
-      "2022-05-25": 7
-    }
+    "time": 671,
+    "timeDay": 399,
+    "timeWeek": 615,
+    "timeMonth": 605,
+    "timeYear": 671,
+    "dailyMinutesDown": {}
   }
 ]
