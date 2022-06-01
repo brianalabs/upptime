@@ -75,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 510,
     "timeDay": 474,
-    "timeWeek": 538,
+    "timeWeek": 556,
     "timeMonth": 435,
     "timeYear": 510,
     "dailyMinutesDown": {}
@@ -85,17 +85,19 @@
     "url": "https://api.coinone.co.kr/ticker?currency=all",
     "icon": "https://favicons.githubusercontent.com/api.coinone.co.kr",
     "slug": "coinone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 473,
-    "timeWeek": 437,
-    "timeMonth": 599,
-    "timeYear": 665,
-    "dailyMinutesDown": {}
+    "time": 664,
+    "timeDay": 349,
+    "timeWeek": 422,
+    "timeMonth": 588,
+    "timeYear": 664,
+    "dailyMinutesDown": {
+      "2022-06-01": 0
+    }
   }
 ]
