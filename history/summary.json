@@ -46,12 +46,12 @@
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1140,
     "timeDay": 1173,
     "timeWeek": 1125,
-    "timeMonth": 1126,
+    "timeMonth": 1116,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -68,9 +68,9 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://favicons.githubusercontent.com/api.bithumb.com",
     "slug": "bithumb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,7 +79,9 @@
     "timeWeek": 631,
     "timeMonth": 585,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-31": 0
+    }
   },
   {
     "name": "Coinone API",
@@ -90,12 +92,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 612,
     "timeDay": 397,
     "timeWeek": 410,
-    "timeMonth": 448,
+    "timeMonth": 473,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2022-07-01": 35,
