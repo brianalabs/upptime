@@ -68,19 +68,19 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://favicons.githubusercontent.com/api.bithumb.com",
     "slug": "bithumb-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 594,
-    "timeWeek": 631,
-    "timeMonth": 585,
+    "timeDay": 555,
+    "timeWeek": 616,
+    "timeMonth": 583,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2022-07-31": 0
+      "2022-07-31": 6
     }
   },
   {
