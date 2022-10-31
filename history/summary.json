@@ -4,19 +4,19 @@
     "url": "http://brianalabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/brianalabs.com.ico",
     "slug": "brianalabs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 228,
-    "timeWeek": 321,
-    "timeMonth": 430,
-    "timeYear": 361,
+    "time": 391,
+    "timeDay": 2540,
+    "timeWeek": 888,
+    "timeMonth": 564,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2022-10-31": 0
+      "2022-10-31": 16
     }
   },
   {
