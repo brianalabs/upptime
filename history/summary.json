@@ -4,10 +4,10 @@
     "url": "http://brianalabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/brianalabs.com.ico",
     "slug": "brianalabs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 391,
@@ -16,6 +16,7 @@
     "timeMonth": 545,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2022-11-08": 1,
       "2022-10-31": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.brianalabs.com/v1/auth/me",
     "icon": "https://icons.duckduckgo.com/ip3/api.brianalabs.com.ico",
     "slug": "api-brianalabs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 1056,
     "timeYear": 1064,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-02-09": 20
     }
   },
