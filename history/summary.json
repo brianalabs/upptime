@@ -67,18 +67,20 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://icons.duckduckgo.com/ip3/api.bithumb.com.ico",
     "slug": "bithumb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 595,
-    "timeWeek": 717,
-    "timeMonth": 828,
+    "time": 632,
+    "timeDay": 601,
+    "timeWeek": 703,
+    "timeMonth": 821,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 0
+    }
   },
   {
     "name": "Coinone API",
