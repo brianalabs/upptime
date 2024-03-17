@@ -1,7 +1,7 @@
 url: https://api.bithumb.com/public/ticker/all_krw
 status: up
 code: 200
-responseTime: 1440
-lastUpdated: 2024-03-16T23:08:48.835Z
+responseTime: 405
+lastUpdated: 2024-03-17T23:09:55.212Z
 startTime: 2021-10-03T03:48:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
