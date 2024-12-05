@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-12-05": 467,
+      "2024-12-05": 478,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -303,14 +303,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.18%",
+    "uptimeYear": "25.17%",
     "time": 1003,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-12-05": 467,
+      "2024-12-05": 478,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -633,19 +633,19 @@
     "url": "https://api.coinone.co.kr/ticker?currency=all",
     "icon": "https://icons.duckduckgo.com/ip3/api.coinone.co.kr.ico",
     "slug": "coinone-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 5426,
-    "timeWeek": 2141,
-    "timeMonth": 1251,
+    "time": 895,
+    "timeDay": 3985,
+    "timeWeek": 2026,
+    "timeMonth": 1246,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 11
     }
   }
 ]
