@@ -1,7 +1,7 @@
 url: https://api.upbit.com/v1/market/all
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-25T17:13:29.119Z
+status: up
+code: 200
+responseTime: 1411
+lastUpdated: 2025-10-25T22:55:43.758Z
 startTime: 2021-10-03T03:48:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
