@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/brianalabs.com.ico",
     "slug": "brianalabs-com",
     "status": "down",
-    "uptime": "58.72%",
+    "uptime": "58.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 71,
+      "2025-11-21": 71,
+      "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -379,8 +380,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.brianalabs.com.ico",
     "slug": "api-brianalabs-com",
     "status": "down",
-    "uptime": "58.72%",
+    "uptime": "58.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 71,
+      "2025-11-21": 71,
+      "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -763,8 +764,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.77%",
     "time": 1299,
-    "timeDay": 969,
-    "timeWeek": 1231,
-    "timeMonth": 1244,
+    "timeDay": 1124,
+    "timeWeek": 1218,
+    "timeMonth": 1231,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-10-25": 342,
@@ -802,10 +802,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1113,
-    "timeDay": 562,
-    "timeWeek": 710,
-    "timeMonth": 710,
-    "timeYear": 1044,
+    "timeDay": 709,
+    "timeWeek": 700,
+    "timeMonth": 712,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   },
   {
@@ -819,10 +819,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 904,
-    "timeDay": 569,
-    "timeWeek": 915,
-    "timeMonth": 784,
+    "time": 905,
+    "timeDay": 1121,
+    "timeWeek": 918,
+    "timeMonth": 794,
     "timeYear": 913,
     "dailyMinutesDown": {}
   }
