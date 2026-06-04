@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 1335,
+      "2026-06-04": 26,
+      "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -379,8 +380,7 @@
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
-      "2025-06-05": 1440,
-      "2025-06-04": 1440
+      "2025-06-05": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 1335,
+      "2026-06-04": 26,
+      "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -763,8 +764,7 @@
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
-      "2025-06-05": 1440,
-      "2025-06-04": 1440
+      "2025-06-05": 1440
     }
   },
   {
@@ -778,10 +778,10 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.75%",
-    "time": 1312,
-    "timeDay": 1529,
-    "timeWeek": 1305,
-    "timeMonth": 1208,
+    "time": 1313,
+    "timeDay": 1405,
+    "timeWeek": 1319,
+    "timeMonth": 1224,
     "timeYear": 1324,
     "dailyMinutesDown": {
       "2025-06-30": 323,
@@ -796,20 +796,21 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://icons.duckduckgo.com/ip3/api.bithumb.com.ico",
     "slug": "bithumb-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 995,
-    "timeDay": 1016,
-    "timeWeek": 1072,
-    "timeMonth": 1061,
-    "timeYear": 908,
+    "timeDay": 1086,
+    "timeWeek": 1123,
+    "timeMonth": 1072,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2025-12-05": 20,
-      "2026-06-03": 72
+      "2026-06-03": 177,
+      "2026-06-04": 26
     }
   },
   {
@@ -824,10 +825,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
-    "timeDay": 863,
-    "timeWeek": 743,
-    "timeMonth": 628,
-    "timeYear": 768,
+    "timeDay": 650,
+    "timeWeek": 741,
+    "timeMonth": 631,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2025-12-05": 20
     }
