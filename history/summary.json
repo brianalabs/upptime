@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/brianalabs.com.ico",
     "slug": "brianalabs-com",
     "status": "down",
-    "uptime": "51.81%",
+    "uptime": "51.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 160,
+      "2026-06-09": 1417,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.brianalabs.com.ico",
     "slug": "api-brianalabs-com",
     "status": "down",
-    "uptime": "51.81%",
+    "uptime": "51.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 160,
+      "2026-06-09": 1417,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -782,7 +782,7 @@
     "timeDay": 1312,
     "timeWeek": 1287,
     "timeMonth": 1244,
-    "timeYear": 1324,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2025-06-30": 323,
       "2025-10-25": 342,
@@ -796,24 +796,25 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://icons.duckduckgo.com/ip3/api.bithumb.com.ico",
     "slug": "bithumb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "91.27%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "99.83%",
-    "time": 970,
-    "timeDay": 1238,
-    "timeWeek": 892,
-    "timeMonth": 978,
-    "timeYear": 912,
+    "time": 969,
+    "timeDay": 848,
+    "timeWeek": 873,
+    "timeMonth": 966,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2025-12-05": 20,
       "2026-06-03": 177,
       "2026-06-04": 305,
       "2026-06-05": 171,
       "2026-06-06": 145,
-      "2026-06-07": 81
+      "2026-06-07": 81,
+      "2026-06-09": 0
     }
   },
   {
@@ -831,7 +832,7 @@
     "timeDay": 839,
     "timeWeek": 654,
     "timeMonth": 658,
-    "timeYear": 763,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2025-12-05": 20
     }
