@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 1366,
+      "2026-06-14": 1431,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 1366,
+      "2026-06-14": 1431,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -781,7 +781,7 @@
     "time": 1311,
     "timeDay": 964,
     "timeWeek": 1094,
-    "timeMonth": 1227,
+    "timeMonth": 1222,
     "timeYear": 1321,
     "dailyMinutesDown": {
       "2025-06-30": 323,
@@ -796,16 +796,16 @@
     "url": "https://api.bithumb.com/public/ticker/all_krw",
     "icon": "https://icons.duckduckgo.com/ip3/api.bithumb.com.ico",
     "slug": "bithumb-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "99.82%",
-    "time": 963,
-    "timeDay": 877,
-    "timeWeek": 939,
-    "timeMonth": 965,
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.81%",
+    "time": 964,
+    "timeDay": 952,
+    "timeWeek": 955,
+    "timeMonth": 970,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2025-12-05": 20,
@@ -816,7 +816,7 @@
       "2026-06-07": 81,
       "2026-06-10": 6,
       "2026-06-09": 23,
-      "2026-06-14": 0
+      "2026-06-14": 65
     }
   },
   {
@@ -833,8 +833,8 @@
     "time": 798,
     "timeDay": 929,
     "timeWeek": 629,
-    "timeMonth": 665,
-    "timeYear": 760,
+    "timeMonth": 675,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2025-12-05": 20
     }
