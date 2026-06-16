@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/brianalabs.com.ico",
     "slug": "brianalabs-com",
     "status": "down",
-    "uptime": "51.63%",
+    "uptime": "51.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 452,
+      "2026-06-16": 216,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -379,8 +380,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.brianalabs.com.ico",
     "slug": "api-brianalabs-com",
     "status": "down",
-    "uptime": "51.63%",
+    "uptime": "51.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 453,
+      "2026-06-16": 216,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -763,8 +764,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.75%",
-    "time": 1310,
-    "timeDay": 1036,
-    "timeWeek": 1077,
-    "timeMonth": 1216,
-    "timeYear": 1320,
+    "time": 1311,
+    "timeDay": 1175,
+    "timeWeek": 1058,
+    "timeMonth": 1209,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2025-06-30": 323,
       "2025-10-25": 342,
@@ -798,15 +798,15 @@
     "slug": "bithumb-api",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "72.92%",
+    "uptimeDay": "83.56%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "99.75%",
-    "time": 962,
-    "timeDay": 838,
-    "timeWeek": 927,
+    "time": 961,
+    "timeDay": 1018,
+    "timeWeek": 923,
     "timeMonth": 961,
-    "timeYear": 912,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-12-05": 20,
       "2026-06-03": 177,
@@ -831,11 +831,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 757,
-    "timeWeek": 674,
-    "timeMonth": 677,
-    "timeYear": 759,
+    "time": 797,
+    "timeDay": 423,
+    "timeWeek": 614,
+    "timeMonth": 630,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2025-12-05": 20
     }
