@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/brianalabs.com.ico",
     "slug": "brianalabs-com",
     "status": "down",
-    "uptime": "48.11%",
+    "uptime": "48.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 1379,
+      "2026-10-19": 175,
+      "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -379,8 +380,7 @@
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
-      "2025-10-20": 1440,
-      "2025-10-19": 1440
+      "2025-10-20": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 1379,
+      "2026-10-19": 175,
+      "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -763,8 +764,7 @@
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
-      "2025-10-20": 1440,
-      "2025-10-19": 1440
+      "2025-10-20": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "97.54%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.72%",
-    "time": 1278,
-    "timeDay": 1074,
-    "timeWeek": 1045,
-    "timeMonth": 1137,
-    "timeYear": 1220,
+    "time": 1276,
+    "timeDay": 1167,
+    "timeWeek": 1029,
+    "timeMonth": 1142,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-10-25": 342,
       "2025-12-31": 270,
@@ -804,9 +804,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 953,
-    "timeDay": 1176,
-    "timeWeek": 1031,
-    "timeMonth": 1041,
+    "timeDay": 883,
+    "timeWeek": 1001,
+    "timeMonth": 1039,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-12-05": 20,
@@ -834,11 +834,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 627,
-    "timeWeek": 514,
-    "timeMonth": 581,
-    "timeYear": 661,
+    "time": 721,
+    "timeDay": 348,
+    "timeWeek": 506,
+    "timeMonth": 574,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-12-05": 20
     }
